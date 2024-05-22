@@ -9,8 +9,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        var mylistview=findViewById<ListView>(R.id.list_view)
-        var mylist= mutableListOf<Model>()
+        val mylistview=findViewById<ListView>(R.id.list_view)
+        val mylist= mutableListOf<Model>()
 
         //let me add my image tittle and description
         mylist.add(Model("automobile","Latest model",R.drawable.syclone))
