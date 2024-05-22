@@ -39,12 +39,6 @@
             android:id="@+id/Sub_Textview"
             android:layout_margin="5sp"/>
 
-        <Button
-            android:id="@+id/button"
-            android:layout_width="133dp"
-            android:layout_height="wrap_content"
-            android:text="@string/button" />
-
     </LinearLayout>
 
 </LinearLayout>
