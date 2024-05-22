@@ -24,7 +24,7 @@
             android:layout_height="wrap_content"
             android:text="@string/main_text"
             android:textSize="20sp"
-            android:textColor="@color/black"
+            android:textColor="#AE8787"
             android:textStyle="bold"
             android:id="@+id/Tittle_Textview"
             android:layout_margin="5sp"/>
